@@ -1,6 +1,5 @@
 # Quiz App
-
-A new Flutter project.
+A basic quiz app just for flutter UI practice.
 
 ## Getting Started
 
